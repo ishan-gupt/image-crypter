@@ -73,7 +73,7 @@ public class SelectAction extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        NewClass a=new NewClass();
+        SelectAction a=new SelectAction();
                 
                 a.setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
